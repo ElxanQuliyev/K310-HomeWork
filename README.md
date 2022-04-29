@@ -1,6 +1,10 @@
 # HomeWork
 # React ilə birlikdə düzgün component strukturu ilə aşağıdakı saytın hissələrini işləyin (Responsivlik daxil)
 <ul>
+  
+<li>
+<a href="https://etreeks.vercel.app">Home</a>
+</li>
 <li>
 <a href="https://etreeks.vercel.app/courses-list">Course List</a>
 </li>
