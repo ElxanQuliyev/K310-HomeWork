@@ -3,7 +3,7 @@
 <ul>
   
 <li>
-<a href="https://etreeks.vercel.app">Home</a>
+<a href="https://etreeks.vercel.app/demo-1">Home</a>
 </li>
 <li>
 <a href="https://etreeks.vercel.app/courses-list">Course List</a>
