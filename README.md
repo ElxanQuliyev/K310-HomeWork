@@ -1,4 +1,4 @@
-# K310-HomeWork
+# HomeWork
 # React ilə birlikdə düzgün component strukturu ilə aşağıdakı saytın hissələrini işləyin (Responsivlik daxil)
 <ul>
 <li>
